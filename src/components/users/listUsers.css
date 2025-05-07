@@ -1,0 +1,35 @@
+  
+  .addUser-btn {
+   background-color: #292556;
+   color: white;
+ }
+ 
+ .addUser-btn:hover{
+   background-color: #3D6CB2;
+   color: white;
+ }
+ 
+ #title-color{
+   color: #292556;
+ 
+ }
+
+ .margin-top{
+  margin-top: 40px;
+ }
+
+ .nueva{
+  display: flex;
+  justify-content: space-between;
+  
+ }
+
+ .fondo{
+  background: linear-gradient(180deg,rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 209, 178, 1) 100%);
+
+ }
+
+ .title-color{
+  color: #f1f1f1;
+  font-weight: 500;
+ }

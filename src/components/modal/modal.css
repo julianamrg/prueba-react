@@ -1,0 +1,32 @@
+.deleteMovement-btn {
+    background-color: #292556;
+    color: white;
+  }
+  
+.deleteMovement-btn:hover{
+    background-color: #3D6CB2;
+    color: white;
+}
+
+.registerMovement-btn{
+  background-color: rgb(57, 57, 223);
+    color: white;
+}
+
+.registerMovement-btn:hover{
+  background-color: #3D6CB2;
+  color: white;
+}
+
+.title-new-color{
+  color: #292556;
+}
+
+.swal-button {
+  padding: 7px 19px;
+  border-radius: 2px;
+  background-color: #292556;
+  font-size: 12px;
+  border: 1px solid #3D6CB2;
+  text-shadow: 0px -1px 0px rgba(0, 0, 0, 0.3);
+}
